@@ -1,0 +1,7 @@
+# py env
+my_env
+
+# 
+web_app/__pycache__
+web_app/main/__pycache__
+web_app/auth/__pycache__
